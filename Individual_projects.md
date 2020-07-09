@@ -48,7 +48,7 @@ Desirability 用户可欲性：
 ## 实践技术
 
 ### 数据来源
-![数据流程图](https://117.28.245.92/img/raw/master/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![数据流程图](https://117.28.245.92/CCRR_ZN/img/raw/master/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### API技术
 
 ### 产品原型
