@@ -52,7 +52,12 @@ Desirability 用户可欲性：
 ### API技术
 
 ### 产品原型
-
+**部分视图**
+![启动](https://gitee.com/CCRR_ZN/img/raw/master/qidong.png)
+![](https://gitee.com/CCRR_ZN/img/raw/master/denglu.png)
+![](https://gitee.com/CCRR_ZN/img/raw/master/zhuye.png)
+![](https://gitee.com/CCRR_ZN/img/raw/master/haibao.png)
+![](https://gitee.com/CCRR_ZN/img/raw/master/内页.png)
 
 ## 电梯一分钟
 “大家好，我是智能视觉生产项目的产品经理，项目将运用智能视觉生产-图像处理API，实现图像处理智能化，一键解决多种图像问题，例如实现图像抠图/分割、图像超高分辨率、图像色彩转换、图像风格转换等等，实现的应用场景如互动娱乐修图、电商海报生成等，应用到传媒娱乐、工业制造、数字营销等领域，实现智能视觉生产，结合平台能力及业务数据积累，提供视频、模型、图像等视觉内容的智能化生产服务，提供全面丰富的产品能力，帮助客户自定义搭配解决不同的业务问题。”
