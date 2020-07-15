@@ -1,11 +1,28 @@
->> 智能产品PRD+原型
-【新工科：实践（数据流程图）+API（测试代码）/
-新商科：MRD/BRD文档（价值主张画布）/
-新文科：PRD文档】
-【智能加值+用户洞察——API+数据流程加智能加值值——整个产品价值主张（2/3）】
+### API、机器学习与人工智能期末文档
 
-## 产品概述
-BetterImg，一款依靠智能视觉生产API实现图像处理功能的设计类APP。针对设计小白，推出兼备主流设计风格和个人审美的设计产品
+# 项目名称：BetterImg
+BetterImg运用智能视觉生产API，实现图片色彩转换/拓色、风格迁移、超分辨/清晰化等，帮助设计小白快速优质化处理图像。
+产品将繁忙复杂的设计工程处理为一键解决多种图像问题，可以应用于互动娱乐修图、海报生成等。依靠智能视觉生产API实现图像处理功能，项目将针对设计小白，推出兼备主流设计风格和个人审美的智能设计产品。
+
+## 问题表述与需求列表
+### 问题表述
+问题表述：
++ **用户使用场景及痛点**：
+对于平面设计的初学者，运用色彩搭配及模仿优秀作品的风格是必学之路。但是传统的图像处理软件*（例如Adobe 的三大设计软件 Photoshop、Illustrator、InDesign）*不适合初学者快速培养这两项能力。它们的使用方式繁杂，需要初学者花费大量的时间完成学习进阶，才能得到较好的图像处理效果。
++ **任务**：
+BetterImg关键智能交互“风格魔法”和“色彩组合”结合关键智能API风格迁移和色彩转换/拓色，解决设计小白类比图像风格、图像色彩搭配转换的问题。
++ **增长点/益点**：
+    - 运用RecolorImage色彩转换/拓色API可以将一张图片直接转换成多种色彩搭配的图片，供初学者更直观的感受到不同色彩搭配的视觉效果，提升初学者的视觉表达能力。
+    - 运用ExtendImageStyle风格迁移API可以输入想要的图像风格照片，再传输另一张图像实现风格模仿，为初学者的风格模仿提供建议和模板。
+
+### 需求列表
+|  优先级   | 需求  | 智能加值？  | API类型  |
+|  ----  | ----  |  ----  | ----  |
+| 1.ExtendImageStyle风格迁移API | 用户可以自定义选用喜欢的画像风格，调整另外图像的色彩风格，打破传统特定滤镜的选择模式 |是  | 智能视觉生产API |
+| 2.RecolorImage色彩转换/拓色API | 用户可以实现一键获得智能色彩搭配推荐，调色配色不再需要挑出图片细节一一对应配色 | 是  | 智能视觉生产API |
+| 3.MakeSuperResolutionImage超分辨/清晰化API | 智能推断图像细节，解决扩大图像但是分辨率不够高的问题 | 是  | 智能视觉生产API  |
+
+## 解决方案原型表述
 
 ### 智能加值部分
 **智能视觉生产-图像处理API**：
@@ -49,16 +66,11 @@ API驱动智能流程：关键智能交互“风格魔法”和“色彩组合�
 ## 实践技术
 
 ### 数据来源
-![data](https://gitee.com/CCRR_ZN/img/raw/master/data.png)
+![data](.../img/data.png)
 ### API技术
 
 ### 产品原型
 **部分视图**
-![begin](https://gitee.com/CCRR_ZN/img/raw/master/qidong.png)
-![denglu](https://gitee.com/CCRR_ZN/img/raw/master/denglu.png)
-![zhuye](https://gitee.com/CCRR_ZN/img/raw/master/zhuye.png)
-![haibao](https://gitee.com/CCRR_ZN/img/raw/master/haibao.png)
-![neiye](https://gitee.com/CCRR_ZN/img/raw/master/neiye.png)
 
 
 
